@@ -1,0 +1,2 @@
+add_executable(httpServer_test HttpServer_test.cc)
+target_link_libraries(httpServer_test http)
