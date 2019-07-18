@@ -14,7 +14,7 @@
 #include <base/Types.h>
 #include <base/StringPiece.h>
 #include <boost/noncopyable.hpp>
-
+#include <fstream>
 namespace muduo
 {
 

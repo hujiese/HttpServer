@@ -1,6 +1,8 @@
 #ifndef MUDUO_BASE_TYPES_H
 #define MUDUO_BASE_TYPES_H
 
+#define MUDUO_STD_STRING
+
 #include <stdint.h>
 #ifdef MUDUO_STD_STRING
 #include <string>
